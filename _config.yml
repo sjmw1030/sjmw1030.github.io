@@ -16,11 +16,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sjmw1030.github.io" # the base hostname & protocol for your site
 
 #sidebar
-default-image: webjeda-logo-big.jpg # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
+default-image: https://postfiles.pstatic.net/20140708_17/sjmw1030_1404802016675gPrOH_JPEG/%C7%A5%C1%F62.jpg?type=w3
+##webjeda-logo-big.jpg # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
 
 #footer
 
-built-by: webjeda
+built-by: Manwang
 
 copyright:
    name: Eden Koo
@@ -36,8 +37,8 @@ paginate_path: /page:num/
 analytics: UA-83979019-1
 
 # Comments
-disqus: yes
-disqus-shortname: webjeda-demo
+##disqus: yes
+##disqus-shortname: webjeda-demo
 
 #social
 facebook: http://facebook.com/manwang.koo
@@ -48,8 +49,8 @@ email: rotc39@gmail.com
 #facebook like box
 fb-like-box: yes
 fb-app-id: 549480635219583
-fb-page-url: https://www.facebook.com/webjeda/
-fb-page-title: webjeda
+fb-page-url: https://www.facebook.com/manwang.koo/
+fb-page-title: Manwang's Facebook
 
 # Sass style
 sass:
