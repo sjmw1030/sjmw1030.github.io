@@ -1,54 +1,25 @@
 ---
 layout: post
-title: Documentation
+title: 스크립트 제대로 작성하기
 img: image-6.jpg
 ---
 
 
-# Installation: 
-Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
+안녕하세요? 구민왕 입니다.
 
-Watch my video on instlallation
-<iframe width="100%" height="360" src="https://www.youtube.com/embed/T2nx6tj-ZH4?rel=0" frameborder="0" allowfullscreen></iframe>
+이번에 출판된 책은 필저로 참여하여 
+사전 공개강의를 통해 검증된 스크립트 지침서입니다.
 
-## How to delete old **gh-pages** branch?
-After forking the repository, click on **branches**.
+책의 구성은 오피니언 마이닝의 과학적 기법을 통해 집필되었습니다. 
+의학과 경영의 콜라보레이션으로 연구된 트래킹기법, 광고와 마케팅의 카피라이팅 
+그리고 경제와 심리의 행동경제학 등이 콜센터 스크립트 작성 시 고려되어야 하므로 
+엄격한 기준이 필요했습니다.
 
-![delete gh-pages branch]({{site.baseurl}}/images/delete-github-branch.png)
+책을 통해 선행학습 후 공개교육을 통해 역량을 다지면 스크립트 전문가로서 
+그 역할을 수행할 수 있습니다. 
 
-Delete ``gh-pages`` branch.
-![delete gh-pages branch]({{site.baseurl}}/images/delete-github-branch-2.png)
+공개교육 수료 후 CS 스크립트 관리사 자격증도 취득할 수 있습니다.
 
-You have to create a new ``gh-pages`` branch using the master branch. Go back to the forked repository and create ``gh-pages`` branch.
-
-![create gh-pages branch]({{site.baseurl}}/images/create-gh-pages-branch.JPG)
-
-Now, go to settings and check the **Github Pages** section. You should see a URL where the blog is hosted.
-
-This process will host the theme as a **Project Page**. You can also download the files for local development. 
-
-Default theme will look like this
-
-![webjeda cards jekyll theme]({{site.baseurl}}/images/webjeda-cards-jekyll-theme-1.png)
-
-This theme is responsive.
-
-![webjeda cards responsive jekyll theme]({{site.baseurl}}/images/webjeda-cards-responsive-jekyll-theme-2.png)
-{: .text-center}
-
-
-# Development
-Make changes to the **master** branch and create a pull request. Do not use **gh-pages** branch as it is used to host the theme.
-
-
-# License
-MIT License
-
-# Changelog
-<pre>
-version 1.0 - SEO, disqus, page-speed enhancement, compressed html.
-
-version 0.9 - Sidebar default image and other minor improvements.  
-  
-version 0.8 - Bootstrap based cards layout theme.
-</pre>
+끝은 또 다른 시작을 의미한다지요.
+그래서 블랙컨슈머에 관한 책도 집필 중에 있습니다. 
+많은 관심 바랍니다.. ^^
