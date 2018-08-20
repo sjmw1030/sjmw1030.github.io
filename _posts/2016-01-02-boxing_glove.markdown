@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 앵그리사회, 회복 프로그램
+title: 앵그리사회 회복 프로그램
 img: boxing_glove.png
 ---
 
