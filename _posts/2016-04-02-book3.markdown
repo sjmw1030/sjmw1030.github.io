@@ -8,6 +8,13 @@ img: book3.jpg
 지식을 모아 바르게 공유할 수 있어서 보람을 느낍니다.
 </blockquote>
 
+{% highlight html %}
+<blockquote>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+  <small>Someone famous in <cite title="Source Title">Source Title</cite></small>
+</blockquote>
+{% endhighlight %}
+
 <% highlight html %>
  ㅇCS 스크립트 관리사, 2016
    [ISBN : 9791157761753(1157761755)]
