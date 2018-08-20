@@ -8,10 +8,10 @@ img: service_mind.png
 요즘 시대는 서비스 경쟁이 치열하죠. 그래서 서비스에 대해 이야기를 나눠 드렸어요.
 </blockquote>
 
-{% highlight html %}
- ㅇCS 스크립트 관리사, 2016
-   [ISBN : 9791157761753(1157761755)]
-{% endhighlight %}
-   <a href="http://me2.do/IG3X0QNl">http://me2.do/IG3X0QNl</a>
-   
-<img src="/images/book3-1.png">
+|  교육명   |      바로가기 |
+|----------|------------:|
+| 서비스 및 고객 마인드 |   ㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁ  |
+ | CS와 MOT에 대한 이해  | ㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁ    |
+|고객만족 정의 및 이해  |       |
+{: .table .table-striped .table-hover}
+
