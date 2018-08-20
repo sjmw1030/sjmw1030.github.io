@@ -4,6 +4,7 @@ title: 세 번째 책을 출판하다
 img: book3.jpg
 ---
 
-
+<blockquote>
 지식을 모아 바르게 공유할 수 있어서 보람을 느낍니다.
+</blockquote>
 <img src="https://postfiles.pstatic.net/20160620_40/sjmw1030_1466410038914qjD3R_JPEG/%BE%E7%B7%C2.jpg?type=w3">
