@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Big DATA Based 마케터 양성 과정
+title: Big DATA Based 마케터 양성과정 강의
 img: big_edu-1.png
 ---
 
