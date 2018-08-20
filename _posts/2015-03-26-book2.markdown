@@ -4,9 +4,9 @@ title: 두 번째 책을 출판하다
 img: book2.png
 ---
 
-{% highlight ruby %}
+<blockquote>
 세간의 화두가 되고 있는 블랙컨슈머, 그 이면의 접점현장에서의 감정노동! 
 CS, 서비스, VOC, 감정노동과 블랙컨슈머 그리고 정보보호까지 지식과 경험을 담아냈습니다.
-{% endhighlight %>
+</blockquote>
 
 <img src="/images/book2-1.png" width="50%">
