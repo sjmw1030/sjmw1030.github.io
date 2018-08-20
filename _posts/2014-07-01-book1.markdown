@@ -4,7 +4,7 @@ title: 첫 번째 책을 출판하다
 img: book1.jpg
 ---
 
-
+<blockquote>
 이번에 출판된 "스크립트 제대로 작성하기" 책은 필저로 참여하여 
 사전 공개강의를 통해 검증된 스크립트 지침서입니다.
 
@@ -21,3 +21,11 @@ img: book1.jpg
 끝은 또 다른 시작을 의미한다지요.
 그래서 블랙컨슈머에 관한 책도 집필 중에 있습니다. 
 많은 관심 바랍니다.. ^^
+</blockquote>
+
+{% highlight html %}
+ ㅇ콜센터 스크립트 제대로 작성하기, 2014
+   [ISBN : 9791185609515(1185609512)]
+    
+{% endhighlight %}
+   <a href="http://me2.do/Fi6qLd7Z">http://me2.do/Fi6qLd7Z</a>
