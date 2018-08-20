@@ -7,4 +7,11 @@ img: book3.jpg
 <blockquote>
 지식을 모아 바르게 공유할 수 있어서 보람을 느낍니다.
 </blockquote>
+
+<% highlight html %>
+ ㅇCS 스크립트 관리사, 2016
+   [ISBN : 9791157761753(1157761755)]
+   <a href="http://me2.do/IG3X0QNl">http://me2.do/IG3X0QNl</a>
+<% endhighlight %>
+
 <img src="https://postfiles.pstatic.net/20160620_40/sjmw1030_1466410038914qjD3R_JPEG/%BE%E7%B7%C2.jpg?type=w3">
