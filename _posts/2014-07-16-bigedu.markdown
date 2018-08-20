@@ -1,0 +1,9 @@
+
+
+@광운대학교
+<img src="/images/big_edu_kwang.png" width="50%">
+
+@한림대학교
+<img src="/images/big_edu_han.png" width="50%">
+
+
