@@ -10,7 +10,7 @@ img: boxing_glove.png
 </blockquote>
 
 <GROUD RULE>
-{% highlight %}
+{% highlight html %}
 1. 글러브를 건내 받으면, 이유불문 수락한다.
 2. 불만에 대한 답변은 항상 긍정해야 한다.
 3. 얼굴/ 가슴/ 생식기 등 급소는 터치할 수 없다.
