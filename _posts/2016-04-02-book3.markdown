@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 세 번째 책을 출판하다
-img: book3.jpg
+img: book3.png
 ---
 
 <blockquote>
@@ -14,4 +14,4 @@ img: book3.jpg
 {% endhighlight %}
    <a href="http://me2.do/IG3X0QNl">http://me2.do/IG3X0QNl</a>
    
-<img src="https://postfiles.pstatic.net/20160620_40/sjmw1030_1466410038914qjD3R_JPEG/%BE%E7%B7%C2.jpg?type=w3">
+<img src="images/book3-1.png">
