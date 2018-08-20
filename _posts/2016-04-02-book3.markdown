@@ -14,4 +14,4 @@ img: book3.png
 {% endhighlight %}
    <a href="http://me2.do/IG3X0QNl">http://me2.do/IG3X0QNl</a>
    
-<img src="images/book3-1.png">
+<img src="/images/book3-1.png">
