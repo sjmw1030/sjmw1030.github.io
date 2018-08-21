@@ -1,0 +1,29 @@
+---
+layout: post
+title: CS Boom-up
+img: csboomup.png
+---
+
+<blockquote>
+스페인 사람들은 투우사가 소의 급소를 찌르는 찰나의 순간을(Moment of Truth, MOT)
+진실의 순간 혹은 결정적 순간 이라고 부른다. 기업은 고객과 만나는 그 순간 소의 운명처럼 생사가 결정된다.
+</blockquote>
+
+<a href="http://naver.me/Fh82zoGZ" class="btn btn-link">CS Boom-up 계속보기</a>
+
+{% highlight html %}
+제1장 MOT의 의미
+제2장 VOC의 중요성 (사소함의 힘)
+제3장 MK택시 서비스 사례
+제4장 Service recovery paradox
+제5장 Provice의 신화가 되어라
+제6장 The Present
+제7장 완전판매의 중요성
+제8장 般클리셰를 하라
+제9장 기러기의 CS Leading을 배워라
+제10장 고객을 정의하라
+제11장 고객의 니즈파악
+제12장 문제의 정의를 단순화 하라
+제13장 감정 노동
+제14장 블랙컨슈머
+{% endhighlight %}
