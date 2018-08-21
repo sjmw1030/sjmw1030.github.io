@@ -10,8 +10,8 @@ img: service_mind.png
 
 |  교육명  |    내용 확인 |
 |----------|------------:|
-| 서비스 및 고객 마인드 | <a href="https://sjmw1030.blog.me/220080423119"> 내용확인 </a> |
-| CS와 MOT에 대한 이해  | <a href="https://sjmw1030.blog.me/220080418896"> 내용확인 </a> |
-|고객만족 정의 및 이해  | <a href="https://sjmw1030.blog.me/220080405321"> 내용확인 </a> |
+| 서비스 및 고객 마인드 | <a href="https://sjmw1030.blog.me/220080423119"> 바로가기 </a> |
+| CS와 MOT에 대한 이해  | <a href="https://sjmw1030.blog.me/220080418896"> 바로가기 </a> |
+|고객만족 정의 및 이해  | <a href="https://sjmw1030.blog.me/220080405321"> 바로가기 </a> |
 {: .table .table-striped .table-hover}
 
