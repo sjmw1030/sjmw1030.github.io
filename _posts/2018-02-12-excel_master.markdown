@@ -60,6 +60,6 @@ img: excel.png
 
 |  컨텐츠명  |    내용 확인 |
 |----------|------------:|
-| 엑셀 다른 시트로 이동 | <a href="http://sjmw1030.blog.me/221206932694"> 내용확인 </a> |
-| 엑셀 위/아래 필드 비교 후 선착 순 등수 | <a href="http://sjmw1030.blog.me/221229785108"> 내용확인 </a> |
+| 엑셀 다른 시트로 이동 | <a href="http://sjmw1030.blog.me/221206932694"> 바로가기 </a> |
+| 엑셀 위/아래 필드 비교 후 선착 순 등수 | <a href="http://sjmw1030.blog.me/221229785108"> 바로가기 </a> |
 {: .table .table-striped .table-hover}
