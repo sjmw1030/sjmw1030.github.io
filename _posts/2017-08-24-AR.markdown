@@ -17,7 +17,7 @@ Unity라는 개발도구로 Vuforia에서 제공하는 컴포넌트를 활용한
 
 |  컨텐츠명  |    내용 확인 |
 |----------|------------:|
-| Unity_Vuforia_AR (증강현실) | <a href="http://sjmw1030.blog.me/221081366853"> 내용확인 </a> |
-| AR 보물찾기 교육 프로그램 | <a href="http://sjmw1030.blog.me/221211145674"> 내용확인 </a> |
+| Unity_Vuforia_AR (증강현실) | <a href="http://sjmw1030.blog.me/221081366853"> 바로가기 </a> |
+| AR 보물찾기 교육 프로그램 | <a href="http://sjmw1030.blog.me/221211145674"> 바로가기 </a> |
 {: .table .table-striped .table-hover}
 
