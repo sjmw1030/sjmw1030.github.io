@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 새로운 취미 Unity
+title: 새로운 취미 Unity로 게임만들기
 img: unity.png
 ---
 
@@ -27,7 +27,7 @@ void Update ()
 }
 {% endhighlight %}
 
-|  교육명   |    내용 확인 |
+|  컨텐츠명   |    내용 확인 |
 |----------|-------------:|
 | Unity Editor 변경하기 | <a href="http://sjmw1030.blog.me/220735857880"> 내용확인 </a> |
 | Unity 내 맘대로 이동하기 | <a href="http://sjmw1030.blog.me/220735990501"> 내용확인 </a> |
