@@ -12,9 +12,10 @@ img: blackconsumer.png
 막무가내로 의도적인 보상을 요구하는 악의적인 소비자를 지칭한다.
 </blockquote>
 
-<a href="http://naver.me/GYyd6SWB" class="btn btn-link">CS Boom-up 계속보기</a>
+<a href="http://naver.me/GYyd6SWB" class="btn btn-primary btn-sm">블랙컨슈머 계속보기</a>
 
 {% highlight html %}
+본 포스트는 출판에 앞서 온라인에 공개하는 내용입니다. -필자 : 구만왕-
 제1장 단상
 제2장 발생배경 및 문제점
 제3장 개념
