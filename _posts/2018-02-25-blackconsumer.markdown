@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 블랙컨슈머
+title: 블랙컨슈머를 출판에 앞서
 img: blackconsumer.png
 ---
 
