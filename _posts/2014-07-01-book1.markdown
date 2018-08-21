@@ -28,4 +28,4 @@ img: book1.jpg
    [ISBN : 9791185609515(1185609512)]
     
 {% endhighlight %}
-   <a href="http://me2.do/Fi6qLd7Z">http://me2.do/Fi6qLd7Z</a>
+   <a href="http://me2.do/Fi6qLd7Z" class="btn btn-primary btn-sm">책 내용 보기</a>
