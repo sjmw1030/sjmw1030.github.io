@@ -1,0 +1,23 @@
+---
+layout: post
+title: Unity Vuforia AR(증강현실) 구현
+img: ar.png
+---
+
+<blockquote>
+VR(가상현실), AR(증강현실), MR(VR+AR,Mix)을 이용한 기술을 일상에서 쉽게 볼 수가 있습니다.
+Unity라는 개발도구로 Vuforia에서 제공하는 컴포넌트를 활용한 AR 앱을 제작해 봤습니다.
+</blockquote>
+
+{% highlight %}
+핸드폰 카메라를 비추면, 미리 준비해둔 이미지 혹은 상황에 맞는 객체가 증강되는 재미있는 앱을 만들 수 있는데요.
+초보자도 2시간 내에 간단한 앱은 충분히 제작할 수 있습니다.
+아래에 제작 과정과 활용 사례를 링크했습니다.
+{% endhighlight %}
+
+|  교육명  |    내용 확인 |
+|----------|------------:|
+| Unity_Vuforia_AR (증강현실) | <a href="http://sjmw1030.blog.me/221081366853"> 내용확인 </a> |
+| AR 보물찾기 교육 프로그램 | <a href="http://sjmw1030.blog.me/221211145674"> 내용확인 </a> |
+{: .table .table-striped .table-hover}
+
