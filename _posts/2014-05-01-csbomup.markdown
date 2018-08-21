@@ -9,9 +9,10 @@ img: csboomup.png
 진실의 순간 혹은 결정적 순간 이라고 부른다. 기업은 고객과 만나는 그 순간 소의 운명처럼 생사가 결정된다.
 </blockquote>
 
-<a href="http://naver.me/Fh82zoGZ" class="btn btn-link">CS Boom-up 계속보기</a>
+<a href="http://naver.me/Fh82zoGZ" class="btn btn-primary btn-sm">CS Boom-up 계속보기</a>
 
 {% highlight html %}
+본 포스트는 출판에 앞서 온라인에 공개하는 내용입니다. -구만왕-
 제1장 MOT의 의미
 제2장 VOC의 중요성 (사소함의 힘)
 제3장 MK택시 서비스 사례
