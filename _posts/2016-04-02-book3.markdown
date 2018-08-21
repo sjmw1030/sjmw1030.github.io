@@ -12,6 +12,7 @@ img: book3.png
  ㅇCS 스크립트 관리사, 2016
    [ISBN : 9791157761753(1157761755)]
 {% endhighlight %}
-   <a href="http://me2.do/IG3X0QNl">http://me2.do/IG3X0QNl</a>
+
+   <a href="http://me2.do/IG3X0QNl" class="btn btn-primary btn-sm">책 내용 보기</a>
    
 <img src="/images/book3-1.png">
