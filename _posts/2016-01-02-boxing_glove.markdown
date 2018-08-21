@@ -18,4 +18,4 @@ img: boxing_glove.png
 5. 마지막은 서로 안아주고 마무리한다.
 {% endhighlight %}
 
-에피소드 <a href="http://sjmw1030.blog.me/220585408175"> Review </a>
+<a href="http://sjmw1030.blog.me/220585408175" class="btn btn-primary btn-sm">에피소드 Review</a>
