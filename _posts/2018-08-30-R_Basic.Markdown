@@ -18,10 +18,21 @@ library(wordcloud2)
 wordcloud2(demoFreq, figPath = "cloud_img.jpg")
 {% endhighlight %}
 
-<img src="/images/cloud_img.jpg">
+<img src="/images/cloud_img.jpg" width="70%">
 
 |  컨텐츠명  |    내용 확인 |
 |----------|------------:|
-| 엑셀 다른 시트로 이동 | <a href="http://sjmw1030.blog.me/221206932694"> 바로가기 </a> |
-| 엑셀 위/아래 필드 비교 후 선착 순 등수 | <a href="http://sjmw1030.blog.me/221229785108"> 바로가기 </a> |
+| About R | <a href="http://sjmw1030.blog.me/221045219639"> 바로가기 </a> |
+| 데이터셋 생성 | <a href="http://sjmw1030.blog.me/221045240875"> 바로가기 </a> |
+| 그래프(시각화) | <a href="http://sjmw1030.blog.me/221045246905"> 바로가기 </a> |
+| 단계 구분도 만들기 | <a href="http://sjmw1030.blog.me/221050568974"> 바로가기 </a> |
+| 트위터 멘션 가져오기 | <a href="http://sjmw1030.blog.me/221051334373"> 바로가기 </a> |
+| 원하는 모양으로 wordcloud 적용 | <a href="http://sjmw1030.blog.me/221054121634"> 바로가기 </a> |
+| wordcloud specific color 지정 | <a href="http://sjmw1030.blog.me/221054141109"> 바로가기 </a> |
+| 기초 데이터 관리 | <a href="http://sjmw1030.blog.me/221058529347"> 바로가기 </a> |
+| 네트워크 그래프 | <a href="http://sjmw1030.blog.me/221283165335"> 바로가기 </a> |
+| 네트워크 그래프 2 | <a href="http://sjmw1030.blog.me/221283209519"> 바로가기 </a> |
+| 기초문법 in R | <a href="http://sjmw1030.blog.me/221317074318"> 바로가기 </a> |
+| R 형태소 분석 | <a href="http://sjmw1030.blog.me/221283209519"> 바로가기 </a> |
+| R 형태소 분석2 | <a href="http://sjmw1030.blog.me/221317836302"> 바로가기 </a> |
 {: .table .table-striped .table-hover}
