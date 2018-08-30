@@ -6,8 +6,8 @@ img: edu_struc.jpg
 
 <blockquote>
 필자는 과거 VOC분석을 위해 엑셀로 문장을 단어 단위로 분류하고, 
-분류된 단어의 형태소를 분류 사전을 정의하고, 
-그 의미를 해석하기 위해서 단어가 포함된 문장을 해석 하는 등 많은 시간을 전처리하는데 소모하였습니다.
+분류된 단어의 형태소를 분류 사전으로 정의하고, 
+그 의미를 해석하기 위해서 단어가 포함된 문장을 탐색 하는 등 많은 시간을 전처리하는데 소모하였습니다.
 그런데, R을 접한 후에는 전처리 시간을 대폭 단축할 수 있었습니다.
 R을 공부하던 그리고 실무에 적용했던 흔적들을 공유합니다.
 아래는 원하는 모양으로 wordcloud를 만드는 코드 예제 입니다.
@@ -18,7 +18,7 @@ library(wordcloud2)
 wordcloud2(demoFreq, figPath = "cloud_img.jpg")
 {% endhighlight %}
 
-<img src="/images/cloud_img.jpg" width="70%">
+<img src="/images/cloud_img.jpg" width="60%">
 
 |  컨텐츠명  |    내용 확인 |
 |----------|------------:|
