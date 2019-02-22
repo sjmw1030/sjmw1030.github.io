@@ -60,6 +60,11 @@ img: excel.png
 
 |  컨텐츠명  |    내용 확인 |
 |----------|------------:|
-| 엑셀 다른 시트로 이동 | <a href="http://sjmw1030.blog.me/221206932694"> 바로가기 </a> |
+| 엑셀 문자열 분리하기 | <a href="http://sjmw1030.blog.me/221464959893"> 바로가기 </a> |
+| 엑셀 특정 단어 삭제 | <a href="http://sjmw1030.blog.me/221380168039"> 바로가기 </a> |
 | 엑셀 위/아래 필드 비교 후 선착 순 등수 | <a href="http://sjmw1030.blog.me/221229785108"> 바로가기 </a> |
+| 엑셀 다른 시트로 이동 | <a href="http://sjmw1030.blog.me/221206932694"> 바로가기 </a> |
+| 엑셀 사용자 서식 삭제 매크로 | <a href="https://sjmw1030.blog.me/140208861225"> 바로가기 </a> |
+| 엑셀 중복 값 찾기 | <a href="https://sjmw1030.blog.me/140115922817"> 바로가기 </a> |
+| 엑셀 기초함수 정리 | <a href="https://sjmw1030.blog.me/140115920800"> 바로가기 </a> |
 {: .table .table-striped .table-hover}
